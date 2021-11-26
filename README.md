@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science. Machine Learning and Artificial Intelligence.
 - 🌱 I’m currently learning Convolutional Neural Network (CNN).
 - 💞️ 
-- 📫 How to reach me
+- 📫 How to reach med
 - [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:phat.tran.k19@hcmut.edu.vn)
 
 
