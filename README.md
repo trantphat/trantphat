@@ -12,4 +12,8 @@ CSEK19/CSEK19 is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CSEK19&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+
