@@ -9,7 +9,7 @@
 # Technical skills
 
 ### Languagues
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!---
 CSEK19/CSEK19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
