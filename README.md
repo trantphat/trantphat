@@ -8,7 +8,7 @@
 
 # Technical skills
 
-## Languagues
+### Languagues
 
 
 <!---
