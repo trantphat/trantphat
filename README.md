@@ -1,5 +1,5 @@
 # Hi there, I'm [CSEK19!](https://github.com/CSEK19) 👋
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=CSEK19&color=green)
 
 - My name is Peter - a Computer Science student at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
 - I'm currently employed as a Software Development Intern at [VNG Corporation](https://vng.com.vn/).
