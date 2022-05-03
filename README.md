@@ -1,4 +1,4 @@
-### Hi there, I'm [CSEK19!](https://github.com/CSEK19) 👋
+# Hi there, I'm [CSEK19!](https://github.com/CSEK19) 👋
 - My name is Peter - a Computer Science student at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
 - I’m interested in Data Science, Machine Learning and Artificial Intelligence.
 ### Things I'm doing right now
