@@ -2,7 +2,7 @@
 - My name is Peter - a Computer Science student at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
 - Currently, I'm a Software Development Intern at [VNG Corporation](https://vng.com.vn/).
 ### Things I'm doing right now
-- I’m currently learning Convolutional Neural Network (CNN) 🌱.
+- Learning Convolutional Neural Network (CNN) 🌱.
 - Trying to learn how to build APIs.
 ### Contact me via
 - [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:phat.tran.k19@gmail.com)
