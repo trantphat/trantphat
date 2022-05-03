@@ -1,6 +1,6 @@
 # Hi there, I'm [CSEK19!](https://github.com/CSEK19) 👋
 - My name is Peter - a Computer Science student at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
-- Data Science, Machine Learning, and Artificial Intelligence are three fields in which I am interested. Aside from that, I am also fascinated in software development and maintenance. My ongoing desire is to be able to become an AI-integrated application developer.
+- Currently, I am a Software Development Intern at [VNG Corporation].
 ### Things I'm doing right now
 - I’m currently learning Convolutional Neural Network (CNN) 🌱.
 - Trying to learn how to build APIs.
