@@ -1,6 +1,6 @@
 # Hi there, I'm [CSEK19!](https://github.com/CSEK19) 👋
 - My name is Peter - a Computer Science student at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
-- Currently, I'm a Software Development Intern at [VNG Corporation].
+- Currently, I'm a Software Development Intern at [VNG Corporation](https://vng.com.vn/).
 ### Things I'm doing right now
 - I’m currently learning Convolutional Neural Network (CNN) 🌱.
 - Trying to learn how to build APIs.
