@@ -2,8 +2,7 @@
 ### About me
 - My name is Peter - a Computer Science student at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
 ### Things I'm doing right now
-- Learning Convolutional Neural Network (CNN) 🌱.
-- Trying to learn how to build and implement APIs.
+- Completing my undergraduate program 🌱.
 ### Contact me via
 - [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:phat.tran.k19@gmail.com)
 - [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/" >](https://www.linkedin.com/in/phat-tran-3ba877239/)
