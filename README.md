@@ -1,6 +1,6 @@
 # Hi there, I'm [CSEK19!](https://github.com/CSEK19) 👋
 ### About me
-- My name is Phat, a graduate student in Computer Science at the [University of Washington](https://www.washington.edu/). Before that, I studied at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
+- My name is Phat, a graduate student in Computer Science at [University of Washington](https://www.washington.edu/). Before that, I studied at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
 ### Things I'm doing right now
 - Completing my graduate program 🌱.
 ### Contact me via
