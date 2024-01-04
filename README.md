@@ -1,8 +1,8 @@
 # Hi there, I'm [CSEK19!](https://github.com/CSEK19) 👋
 ### About me
-- My name is Phat - a Computer Science student at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
+- My name is Phat, a graduate student in Computer Science at the [University of Washington](https://www.washington.edu/). Before that, I studied at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
 ### Things I'm doing right now
-- Completing my undergraduate program 🌱.
+- Completing my graduate program 🌱.
 ### Contact me via
 - [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:phat.tran.k19@gmail.com)
 - [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/" >](https://www.linkedin.com/in/phattt/)
