@@ -58,3 +58,5 @@ You can click the Preview link to take a look at your changes.
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=CSEK19&show_icons=true&theme=onedark" />
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CSEK19&theme=onedark&layout=compact" />
 </div>
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+
