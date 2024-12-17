@@ -4,9 +4,9 @@
 - I love hiking and exploring nature trails!
 ### Things I'm doing right now
 - Completing my graduate program 🌱.
-### Contact me via
-- [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:phat.tran.k19@gmail.com)
-- [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/" >](https://www.linkedin.com/in/phattt/)
+### Feel free to drop me a message
+- [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:phat.tran.k19@gmail.com)
+- [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white/" >](https://www.linkedin.com/in/phattt/)
 
 # Technical Skills
 
