@@ -1,10 +1,10 @@
 # Hi there, I'm [Phat!](https://github.com/trantphat) 👋
-### About me
+## About me
 - Currently, I am a graduate student in computer science at [University of Washington](https://www.washington.edu/). Before that, I studied at [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en).
 - I love hiking and exploring nature trails.
 - Check out my personal page for more about me: [trantphat.github.io](https://trantphat.github.io/).
 
-# Technical Skills
+## Technical Skills
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
