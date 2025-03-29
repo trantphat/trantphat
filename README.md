@@ -1,12 +1,9 @@
 # Hi there, I'm [Phat!](https://github.com/trantphat) 👋
 ### About me
-- My name is Phat, a graduate student in computer science at [University of Washington](https://www.washington.edu/). Before that, I studied at [Ho Chi Minh University of Technology](https://edurank.org/uni/ho-chi-minh-city-university-of-technology/).
-- I love hiking and exploring nature trails!
-### Things I'm doing right now
-- Completing my graduate program 🌱.
-### Feel free to drop me a message
-- [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:phat.tran.k19@gmail.com)
-- [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white/" >](https://www.linkedin.com/in/phattt/)
+- Currently, I am a graduate student in computer science at [University of Washington](https://www.washington.edu/). Before that, I studied at [Ho Chi Minh University of Technology](https://hcmut.edu.vn/en).
+- I love hiking and exploring nature trails.
+- Check out my personal page for more about me: [trantphat.github.io](https://trantphat.github.io/).
+- Feel free to drop me a message at [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />](mailto:phat.tran.k19@gmail.com).
 
 # Technical Skills
 
