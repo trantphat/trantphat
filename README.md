@@ -89,10 +89,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trantphat&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-</p>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
