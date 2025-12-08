@@ -16,10 +16,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **Education**: [Oregon State University](https://oregonstate.edu/) (PhD) | [University of Washington](https://www.washington.edu/) (Master's) | [Ho Chi Minh City University of Technology](https://hcmut.edu.vn/en) (Bachelor's)
-- 🔬 **Research Focus**: Developing reliable and interpretable language models for clinical decision support
-- 🌍 **Beyond Code**: Passionate about exploring new places, cultures, and experiences around the world
-- 📫 **Reach Me**: Open to collaborations, discussions, and research opportunities
+- 🎓 **Education**: [Oregon State University](https://oregonstate.edu/) ← [University of Washington](https://www.washington.edu/) ← [Ho Chi Minh City University of Technology](https://hcmut.edu.vn/en)
+- 🔬 **Research**: Developing reliable and interpretable language models for clinical decision support
+- 🏖️ **Life**: Passionate about exploring new places, cultures, and experiences around the world
+- 🤝 **Connect**: Open to collaborations, discussions, and research opportunities
 
 ---
 
