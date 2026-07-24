@@ -2,11 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Phat!&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff" />
 </div>
 
-<h3 align="center">🤖 AI/ML Researcher | 👨‍🎓 PhD Student @ OSU</h3>
-<p align="center">
-  <em>Building intelligent systems at the intersection of AI and healthcare</em>
-</p>
-
 <p align="center">
   <a href="https://trantphat.github.io"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://linkedin.com/in/trantphat"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
